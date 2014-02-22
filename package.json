@@ -1,0 +1,13 @@
+{
+  "name": "matelight",
+  "version": "0.1.0",
+  "description": "client for matelight",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip Stewart <philip.d.stewart@gmai.com>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
