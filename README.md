@@ -8,7 +8,6 @@ var matelight = require('matelight');
 var m = matelight.connect();
 
 m.startLoop(function(){
-    m.setLight(2, 2, 200, 0, 200);
-  }
+  m.setLight(2, 2, 200, 0, 200);
 });
 ```
