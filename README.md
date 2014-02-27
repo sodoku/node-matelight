@@ -1,6 +1,6 @@
 # node-matelight
 
-[matelight](https://github.com/jaseg/matelight) client for node.js using CRAP, t
+[matelight](https://github.com/jaseg/matelight) client for node.js using CRAP, the "Custom advanced video stReAming Protocol".
 
 Install with:
 
