@@ -4,7 +4,7 @@
   "description": "client for matelight",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/test.js -R spec"
+    "test": "./node_modules/mocha/bin/mocha test/test.js -R spec"
   },
   "author": "Philip Stewart <philip.d.stewart@gmai.com>",
   "license": "MIT",
@@ -14,6 +14,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "should": "^3.2.0"
+    "should": "^3.2.0",
+    "mocha": "^1.18.2"
   }
 }
