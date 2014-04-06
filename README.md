@@ -1,5 +1,7 @@
 # node-matelight
 
+[![Build Status](https://travis-ci.org/sodoku/node-matelight.svg?branch=master)](https://travis-ci.org/sodoku/node-matelight)
+
 [matelight](https://github.com/jaseg/matelight) client for node.js using CRAP, the "Custom advanced video stReAming Protocol".
 
 Install with:
